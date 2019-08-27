@@ -1,0 +1,24 @@
+{
+  "name": "is-working",
+  "version": "1.0.0",
+  "description": "Checks if your JavaScript interpreter is currently working",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyrA/is-working.git"
+  },
+  "keywords": [
+    "javascript",
+    "is",
+    "working"
+  ],
+  "author": "Kevin Gut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyrA/is-working/issues"
+  },
+  "homepage": "https://github.com/AyrA/is-working#readme"
+}
